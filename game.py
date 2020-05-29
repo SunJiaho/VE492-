@@ -6,7 +6,7 @@ import sys
 #######################
 # Parts worth reading #
 #######################
-
+#sjh
 class Agent:
     """
     An agent must define a getAction method, but may also define the
